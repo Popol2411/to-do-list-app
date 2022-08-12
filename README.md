@@ -1,4 +1,4 @@
-# :seedling: To-Do-List
+# :seedling: To-Do List
 
 Simple To-Do List created with jQuery. Given JavaScript code was converted into jQuery code.
 
