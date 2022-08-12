@@ -11,7 +11,7 @@ Simple To-Do List created with jQuery. Given JavaScript code was converted into 
 
 ## :hammer_and_wrench: Built With 
 
-- jQuery
+- [jQuery](https://jquery.com/)
 
 ## :page_with_curl: Technical Requirements
 
