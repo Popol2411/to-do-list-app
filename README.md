@@ -15,7 +15,7 @@ Simple To-Do List created with jQuery. Given JavaScript code was converted into 
 
 ## :page_with_curl: Technical Requirements
 
-- The app must be written in jQuery
+- The app must be written in jQuery.
 
 ## :man_technologist: Get Started
 
