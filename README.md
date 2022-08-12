@@ -19,6 +19,6 @@ Simple To-Do List created with jQuery. Given JavaScript code was converted into 
 
 ## :man_technologist: Get Started
 
-[https://github.com/Popol2411/cf_pokedex.git]
+https://github.com/Popol2411/cf_pokedex.git
 
 ## :rocket: Video Demo
